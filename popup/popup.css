@@ -1,0 +1,11 @@
+body {
+  width: 400px;
+  height: 400px;
+  background-color: gray;
+  color: wheat;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+}
